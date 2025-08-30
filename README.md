@@ -91,4 +91,4 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 Developed with ❤️ by **OptimiDev** and contributors.
 
-
+P.S. do not use the pnpm run web, its in dev :)
