@@ -59,7 +59,7 @@ GEMINI_API_KEY="YourGEMINIapiKey"
 
 ## 📖 Documentation
 
-Coming soon at https://optimidev.github.io/civita/docs
+Coming soon at https://optimidev.github.io/Civita/docs/
 
 ---
 
