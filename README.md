@@ -1,4 +1,3 @@
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
 
 # Civita Bot 
 
@@ -6,6 +5,10 @@ Civita is a **Discord moderation and AI-powered bot** built to make communities 
 With smart **profanity filters**, an **AI assistant**, and an automated **Question of the Day (QOTD)** system powered by AI, Civita combines powerful moderation with next-gen AI interaction.  
 
 ---
+
+## What civita means?
+On a good day Civita means “city,” “state,” or “citizenship.” from Latin, on
+a bad day, it means Idiotic Truckload of Shit
 
 ## ✨ Features
 - 🔧 **Moderation Tools**
