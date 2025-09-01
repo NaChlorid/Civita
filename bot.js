@@ -303,6 +303,7 @@ const slashCommands = [
 			{ name: 'word', description: 'Word to add', type: 3, required: true },
 		],
 	},
+	// Fuck.
 	{
 		name: 'profanity_remove',
 		description: 'Remove a word from this guild\'s profanity list',
