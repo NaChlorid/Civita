@@ -1,5 +1,9 @@
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
 
+# WARNING !!!
+THIS GIT REPO ISN'T GETTING UPDATES ANYMORE
+PLEASE SWITCH TO https://git.optimihost.com/NaChlorid/Civita
+
 # Civita Bot 
 
 Civita is a **Discord moderation and AI-powered bot** built to make communities safe, fun, and engaging.  
