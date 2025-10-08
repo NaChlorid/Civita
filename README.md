@@ -31,7 +31,7 @@ a bad day, it means Idiotic Truckload of Shit
 
 ### Prerequisites
 - [Node.JS](https://nodejs.org/en)  
-- [PnPm]([https://github.com/DisnakeDev/disnake](https://pnpm.io/)) (or NNPM but not recommended)  
+- [PnPm]([https://github.com/DisnakeDev/disnake](https://pnpm.io/)) (or NPM but not recommended)  
 - A [Discord Bot Token](https://discord.com/developers/applications)  
 - An Gemini API key
 
@@ -64,7 +64,7 @@ GEMINI_API_KEY="YourGEMINIapiKey"
 
 ## 📖 Documentation
 
-Coming soon at https://optimidev.github.io/Civita/docs/
+https://civita.optimihost.com/docs
 
 ---
 
