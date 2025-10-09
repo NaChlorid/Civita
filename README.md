@@ -4,7 +4,8 @@
 THIS GIT REPO ISN'T GETTING UPDATES ANYMORE
 PLEASE SWITCH TO https://git.optimihost.com/NaChlorid/Civita
 
-# Civita Bot 
+
+<img width="1380" height="330" alt="Frame 1-6" src="https://github.com/user-attachments/assets/86e0fc72-9d74-4e21-a911-cd5d2a556f90" />
 
 Civita is a **Discord moderation and AI-powered bot** built to make communities safe, fun, and engaging.  
 With smart **profanity filters**, an **AI assistant**, and an automated **Question of the Day (QOTD)** system powered by AI, Civita combines powerful moderation with next-gen AI interaction.  
